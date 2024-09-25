@@ -1,5 +1,6 @@
-![image](https://github.com/user-attachments/assets/6e20993b-c43a-4c63-9287-314f19324836)# 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
+# 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
 ## AIM
+To write a python program to perform implementation of sliding window protocol
 ## ALGORITHM:
 1. Start the program.
 2. Get the frame size from the user
