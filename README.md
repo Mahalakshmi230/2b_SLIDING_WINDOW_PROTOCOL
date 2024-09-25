@@ -40,9 +40,11 @@ while True:
 ```
 ## OUPUT
 CLIENT:
+
 ![Screenshot 2024-08-30 114227](https://github.com/user-attachments/assets/feac64df-74ab-47d6-97d3-fa8fd3832069)
 
 SERVER:
+
 ![Screenshot 2024-08-30 114200](https://github.com/user-attachments/assets/459cd839-83bd-41ed-98f6-18c60c1662ce)
 
 ## RESULT
